@@ -1,0 +1,18 @@
+body {
+  font-size: 1rem;
+  background-color: papayawhip;
+  color: #333;
+  width: 100ch;
+}
+.article {
+  color: black;
+}
+p {
+  color: chocolate;
+}
+#one {
+  font-family: italic;
+}
+#two {
+  font-family: Open sans;
+}
